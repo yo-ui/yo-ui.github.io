@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.4b104dabbde37ad189185474e8b8a092.js"
+  "/youi/precache-manifest.42a25b31287bc1b7828eb4013051a91f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "youi"});
