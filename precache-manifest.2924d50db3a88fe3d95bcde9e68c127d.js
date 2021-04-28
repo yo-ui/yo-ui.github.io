@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8521e7ab6f0bd47fa227ae5225c59a9a",
+    "revision": "4a3b8e6166cd19c4433ab5ed91c0dadb",
     "url": "/youi/index.html"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/youi/static/css/exnet-index.4a290ff1.css"
   },
   {
-    "revision": "c8d4272452e2fb1fd0ef",
+    "revision": "b4da2a257839f9086048",
     "url": "/youi/static/css/index.f589eaea.css"
   },
   {
@@ -104,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/youi/static/css/yo-component-guide.0e433876.css"
   },
   {
-    "revision": "561729c3e5583918a52d",
-    "url": "/youi/static/css/yo-component-header.8398934f.css"
+    "revision": "ab24117bcce21b52e4c1",
+    "url": "/youi/static/css/yo-component-header.bba4a043.css"
   },
   {
     "revision": "e115f5f2c59c97e4c92d",
@@ -136,8 +136,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/youi/static/css/yo-component.9fb59f4b.css"
   },
   {
-    "revision": "b5bfb9ea1ded726a37d2",
-    "url": "/youi/static/css/yo-notfound.5da2942d.css"
+    "revision": "917298e0e185bb6a8d4c",
+    "url": "/youi/static/css/yo-notfound.ee977724.css"
   },
   {
     "revision": "259681e279ae403068974182350fc1fc",
@@ -200,6 +200,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/youi/static/img/iconfont.c1316c25.svg"
   },
   {
+    "revision": "b123d76961023797bda8b757e80e1aa6",
+    "url": "/youi/static/img/logo.b123d769.png"
+  },
+  {
     "revision": "3a35fec21751ce64cb25",
     "url": "/youi/static/js/chunk-vendors.fbe632f3.js"
   },
@@ -208,8 +212,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/youi/static/js/exnet-index.42417c79.js"
   },
   {
-    "revision": "c8d4272452e2fb1fd0ef",
-    "url": "/youi/static/js/index.11c6f9ba.js"
+    "revision": "b4da2a257839f9086048",
+    "url": "/youi/static/js/index.fc38fbb2.js"
   },
   {
     "revision": "fc5ab06feef9eeba24c6f19e558e79f5",
@@ -396,7 +400,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/youi/static/js/yo-component-guide.c6dc89ff.js"
   },
   {
-    "revision": "561729c3e5583918a52d",
+    "revision": "ab24117bcce21b52e4c1",
     "url": "/youi/static/js/yo-component-header.fdebcd34.js"
   },
   {
@@ -408,8 +412,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/youi/static/js/yo-component-intro.07ccdbeb.js"
   },
   {
-    "revision": "e8ed2fa7d3716bb46a1f",
-    "url": "/youi/static/js/yo-component-layout-card.0680526b.js"
+    "revision": "1cf74b4d1492db42597a",
+    "url": "/youi/static/js/yo-component-layout-card.197d52e2.js"
   },
   {
     "revision": "3eff65c2e2d3f36445b5",
@@ -428,8 +432,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/youi/static/js/yo-component-layout-layout.d459ec55.js"
   },
   {
-    "revision": "7fe5244233a4634d2b21",
-    "url": "/youi/static/js/yo-component-layout-list.935cb649.js"
+    "revision": "64fdc5cfa7b1fe842291",
+    "url": "/youi/static/js/yo-component-layout-list.21b7e3d7.js"
   },
   {
     "revision": "bcd271c26ba3a79105bb",
@@ -456,7 +460,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/youi/static/js/yo-component.5034d936.js"
   },
   {
-    "revision": "b5bfb9ea1ded726a37d2",
+    "revision": "917298e0e185bb6a8d4c",
     "url": "/youi/static/js/yo-notfound.3770e8b4.js"
   }
 ]);
